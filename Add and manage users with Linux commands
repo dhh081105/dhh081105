@@ -1,0 +1,9 @@
+analyst@d8ddca9ea714:~$ sudo useradd researcher9
+analyst@d8ddca9ea714:~$ sudo usermod -g research_team researcher9
+analyst@d8ddca9ea714:~$ sudo useradd researcher9 -g research_team
+useradd: user 'researcher9' already exists
+analyst@d8ddca9ea714:~$ sudo chown researcher9 /home/researcher2/projects/project_r.txt
+analyst@d8ddca9ea714:~$ sudo usermod -a -G sales_team researcher9
+analyst@d8ddca9ea714:~$ sudo userdel researcher9
+userdel: group researcher9 not removed because it is not the primary group of user researcher9.
+analyst@d8ddca9ea714:~$ sudo groupdel researcher9
