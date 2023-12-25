@@ -1,0 +1,10 @@
+analyst@a8b4291aeaf9:~$ echo hello
+hello
+analyst@a8b4291aeaf9:~$ echo "hello"
+hello
+analyst@a8b4291aeaf9:~$ expr 32 - 8
+24
+analyst@a8b4291aeaf9:~$ expr 3500 * 12
+42000
+analyst@a8b4291aeaf9:~$ echo "Hi, I am 18 years old"
+Hi, I am 18 years old          
