@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Hinds
+- 👋 Hi, I’m Grey
 - 👀 I’m interested in Security Analysis
 - 🌱 I’m currently learning Cybersecurity Professional Certificate
 - 📫 How to reach me email: dhh081105@gmail.com
